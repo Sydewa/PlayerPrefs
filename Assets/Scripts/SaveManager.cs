@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class SaveManager : MonoBehaviour
 {
-    public string userName;
+    /*public string userName;
     public int userScore;
     public Vector3 userPosition;
 
@@ -45,5 +45,5 @@ public class SaveManager : MonoBehaviour
         PlayerPrefs.DeleteKey("posZ");
 
         LoadData();
-    }
+    }*/
 }
